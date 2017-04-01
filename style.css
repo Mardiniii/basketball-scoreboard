@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'LCD';
+  src: url(open-24-display-st.ttf);
+}
+
+.change-text {
+  background-color: yellow;
+  color: red;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.score-font {
+  font-size: 300px;
+  font-family: 'LCD';
+  color: red;
+}
